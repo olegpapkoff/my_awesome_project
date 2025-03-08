@@ -1,0 +1,21 @@
+p {
+    font-size: 24px;
+    background-color: aquamarine;
+
+}
+
+.container {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+
+    background-color: rgb(240, 186, 186);
+
+}
+
+.main {
+    text-align: center;
+}
+.container>img {
+    max-width: 300px;
+}
